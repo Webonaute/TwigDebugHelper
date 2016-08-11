@@ -1,6 +1,7 @@
 # TwigDebugHelperBundle
 ===============================
 [![Latest Stable Version](https://poser.pugx.org/webonaute/twig-debug-helper-bundle/v/stable.svg)](https://packagist.org/packages/webonaute/twig-debug-helper-bundle) [![Total Downloads](https://poser.pugx.org/webonaute/twig-debug-helper-bundle/downloads.svg)](https://packagist.org/packages/webonaute/twig-debug-helper-bundle) [![Latest Unstable Version](https://poser.pugx.org/webonaute/twig-debug-helper-bundle/v/unstable.svg)](https://packagist.org/packages/webonaute/twig-debug-helper-bundle) [![License](https://poser.pugx.org/webonaute/twig-debug-helper-bundle/license.svg)](https://packagist.org/packages/webonaute/twig-debug-helper-bundle)
+
 Help frontend developer to find in which template the html stand in.
 
 **Caution:** It is highly not recommended to use this bundle in production.
