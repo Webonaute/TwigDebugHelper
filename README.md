@@ -15,7 +15,7 @@ Add these 2 lines to your config_dev.yml
 
 ```
 twig:
-    base_template_class: TwigDebugHelperBundle\Twig\DebugTemplate
+    base_template_class: Webonaute\TwigDebugHelperBundle\Twig\DebugTemplate
 ```
 
 License
