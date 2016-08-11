@@ -1,5 +1,5 @@
 <?php
-namespace TwigDebugHelperBundle\Twig;
+namespace Webonaute\TwigDebugHelperBundle\Twig;
 
 abstract class DebugTemplate extends \Twig_Template
 {
