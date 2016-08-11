@@ -1,0 +1,36 @@
+{
+  "name": "webonaute/twig-debug-helper-bundle",
+  "description": "Allow frontend developper in which template the html has been generated.",
+  "type": "symfony-bundle",
+  "keywords": [
+    "development",
+    "twig",
+    "template",
+    "symfony",
+    "symfony2",
+    "debug",
+    "test",
+    "helper"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mathieu Delisle",
+      "email": "mdelisle@webonaute.ca"
+    }
+  ],
+  "support": {
+    "email": "mdelisle@webonaute.ca",
+    "issue": "https://github.com/Webonaute/TwigDebugHelperBundle/issues",
+    "source": "https://github.com/Webonaute/TwigDebugHelperBundle"
+  },
+  "require": {
+    "php": ">=5.3.3",
+    "symfony/framework-bundle": "~2.0 || ~3.0",
+    "twig/twig": "~1.12",
+  },
+  "autoload": {
+    "psr-0": {"Webonaute\\TwigDebugHelperBundle": ""}
+  },
+  "target-dir": "Webonaute/TwigDebugHelperBundle"
+}
