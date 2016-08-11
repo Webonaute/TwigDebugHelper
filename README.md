@@ -8,14 +8,14 @@ Help frontend developer to find in which template the html stand in.
 ## Configuration
 Add these 2 lines to your config_dev.yml
 
+```
+twig:
+    base_template_class: TwigDebugHelperBundle\Twig\DebugTemplate
+```
+
 License
 -------
 
 This bundle is under the MIT license. See the complete license in the bundle:
 
     Resources/meta/LICENSE
-
-```
-twig:
-    base_template_class: TwigDebugHelperBundle\Twig\DebugTemplate
-```
