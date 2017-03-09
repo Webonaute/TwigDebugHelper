@@ -7,7 +7,6 @@
     "twig",
     "template",
     "symfony",
-    "symfony2",
     "debug",
     "test",
     "helper"
@@ -25,12 +24,11 @@
     "source": "https://github.com/Webonaute/TwigDebugHelperBundle"
   },
   "require": {
-    "php": ">=5.3.3",
-    "symfony/framework-bundle": "~2.0 || ~3.0",
-    "twig/twig": "~1.12"
+    "php": ">=5.5",
+    "symfony/framework-bundle": "^2.0 || ^3.0",
+    "twig/twig": "^1.12"
   },
   "autoload": {
-    "psr-0": {"Webonaute\\TwigDebugHelperBundle": ""}
-  },
-  "target-dir": "Webonaute/TwigDebugHelperBundle"
+    "psr-4": {"Webonaute\\TwigDebugHelperBundle\\": ""}
+  }
 }
