@@ -8,6 +8,9 @@ Help frontend developer to find in which template the html stand in.
 
 ## Installation
 
+### Symfony <= 3.3
+run ```composer require webonaute/twig-debug-helper-bundle ^1.0 ```
+### Symfony > 3.4
 run ```composer require webonaute/twig-debug-helper-bundle ^2.0 ```
 
 ## Configuration
