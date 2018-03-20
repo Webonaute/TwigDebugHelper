@@ -24,8 +24,8 @@
     "source": "https://github.com/Webonaute/TwigDebugHelperBundle"
   },
   "require": {
-    "php": ">=5.5",
-    "symfony/framework-bundle": "^2.0 || ^3.0 || ^4.0",
+    "php": ">=7.2",
+    "symfony/framework-bundle": "^3.4 || ^4.0",
     "twig/twig": "^1.12"
   },
   "autoload": {
