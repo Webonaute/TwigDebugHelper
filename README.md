@@ -8,7 +8,7 @@ Help frontend developer to find in which template the html stand in.
 
 ## Installation
 
-run ```composer require webonaute/twig-debug-helper-bundle ~1.0 ```
+run ```composer require webonaute/twig-debug-helper-bundle ^2.0 ```
 
 ## Configuration
 Add these 2 lines to your config_dev.yml
